@@ -77,7 +77,7 @@ body {
    * LINK STYLE
    *------------------------------------------*/
   a {
-    color: #AF3D4E;
+    color: #8f3daf;
     text-decoration: none;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
@@ -96,7 +96,7 @@ body {
   a:hover,
   a:focus {
     text-decoration: none;
-    color: #AF3D4E;
+    color: #8f3daf;
   }
   
   p {
@@ -130,7 +130,7 @@ body {
   
   /*btn-primary*/
   .btn-primary {
-    background-color: #AF3D4E;
+    background-color: #8f3daf;
   }
   
   .btn-primary:hover,
@@ -141,17 +141,17 @@ body {
   
   /*btn-default*/
   .btn-default {
-    color: #AF3D4E;
+    color: #8f3daf;
     background-color: transparent;
-    border: 2px solid #AF3D4E;
+    border: 2px solid #8f3daf;
   }
   
   .btn-default:hover,
   .btn-default:focus,
   .btn-default:active:focus {
-    background: #AF3D4E;
+    background: #8f3daf;
     color: #ffffff;
-    border-color: #AF3D4E;
+    border-color: #8f3daf;
   }
   
   button:focus,
@@ -393,7 +393,7 @@ body {
   
   .progress-item .progress-bar {
     display: block;
-    background-color: #AF3D4E;
+    background-color: #8f3daf;
     box-shadow: none;
     text-align: right;
   }
